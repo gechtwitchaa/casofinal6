@@ -31,4 +31,7 @@ public class Main {
             e.printStackTrace();
         }
     }
+
+    private record InterfazUsuarioInteractivo() {
+    }
 }
