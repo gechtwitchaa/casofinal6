@@ -79,7 +79,6 @@ public class InterfazUsuarioInteractiva extends JFrame {
         }
     }
 
-
     private void listarArchivos() {
         Map<String, String> nombresRutas = gestionEstudiantes.indexarArchivos();
         areaTexto.append("Lista de nombres y rutas:\n");
