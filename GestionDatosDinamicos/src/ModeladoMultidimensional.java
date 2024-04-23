@@ -26,7 +26,7 @@ class Pareja<T, U> {
 
 class DatosMultidimensionales {
     public static void main(String[] args) {
-      
+
         Pareja<String, Integer> dato1 = new Pareja<>("A", 10);
         Pareja<String, Integer> dato2 = new Pareja<>("B", 20);
 
