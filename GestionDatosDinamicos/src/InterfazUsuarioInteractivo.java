@@ -3,13 +3,13 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
-public class InterfazUsuarioInteractiva extends JFrame {
+public class InterfazUsuarioInteractivo extends JFrame {
     private JTextArea areaTexto;
     private JTextField campoTexto;
     private JButton botonAgregar;
     private ArrayList<String> datos;
 
-    public InterfazUsuarioInteractiva() {
+    public InterfazUsuarioInteractivo() {
         datos = new ArrayList<>();
 
         setTitle("Interfaz de Usuario");
@@ -54,6 +54,6 @@ public class InterfazUsuarioInteractiva extends JFrame {
     }
 
     public static void main(String[] args) {
-        new InterfazUsuarioInteractiva();
+        new InterfazUsuarioInteractivo();
     }
 }
