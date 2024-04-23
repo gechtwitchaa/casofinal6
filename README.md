@@ -5,7 +5,7 @@ https://github.com/gechtwitchaa/casofinal6.git
 1. Modelado Multidimensional:
 cree clases y estructuras para representar y manejar datos multidimensionales, como la clase "Pareja" para almacenar pares de datos.
 
-. Interfaz de Usuario Interactiva:
+2. Interfaz de Usuario Interactiva:
 Se desarrollan una interfaz gráfica de usuario que permite a los usuarios introducir, modificar y eliminar datos dinámicamente.
 Se implementan botones para interactuar con los datos y visualizar cambios en tiempo real.
 
